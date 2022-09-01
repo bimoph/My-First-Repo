@@ -2,4 +2,6 @@ Nama    : Bimo Priyohutomo
 
 NPM     : 2106708444
 
-Kelas   : E
+Kelas   : e
+
+Hobi    : turu
