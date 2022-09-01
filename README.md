@@ -4,4 +4,4 @@ NPM     : 2106708444
 
 Kelas   : e
 
-Hobi    : turu
+Hobi    : tas
